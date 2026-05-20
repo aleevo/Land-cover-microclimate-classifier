@@ -21,9 +21,7 @@ Automated land cover classifier using aerial imagery to support environmental pl
 ### Deep Learning Exploration
 | Model | Test Accuracy | Notes |
 |-------|--------------|-------|
-| 1D Feedforward Neural Network (PyTorch) | ~XX.X%* | Trained on same HOG+Color features for fair comparison |
-
-*Update this with your actual NN test accuracy from the script output.
+| 1D Feedforward Neural Network (PyTorch) | ~93.33% | Trained on same HOG+Color features for fair comparison |
 
 ## Key Results
 - **Best model: Logistic Regression** with 93.3% accuracy
