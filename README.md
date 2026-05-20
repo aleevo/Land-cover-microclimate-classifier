@@ -39,7 +39,7 @@ Built a PyTorch neural network as an extension to compare deep learning vs. trad
 |------|-------------|
 | `microclimate_classifier.py` | Main project: HOG + Color feature extraction, traditional ML models, evaluation |
 | `cnn_experiment.py` | PyTorch neural network on same features for comparison |
-| `brief_report.pdf` |  Academic report |
+| `brief_report` |  https://drive.google.com/drive/folders/1hy4qEejrmkpOMzKqAwQZPUZJKbLFBzO8 |
 | `plots/` | Confusion matrices, learning curves, bar charts, CNN training history |
 | `README.md` | This file |
 
